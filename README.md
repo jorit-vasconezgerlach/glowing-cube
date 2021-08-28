@@ -1,1 +1,1 @@
-# glowing-cube
+# Glowing Cube
